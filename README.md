@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Celsby
+- 👀 I’m interested in Final Fantasy XIV
+- 🌱 I’m currently learning about web development.
+- 💞️ I’m looking to collaborate on tools for improving FFXIV new player experience and lore info
+- 📫 How to reach me on Twitter: @CelsbyLevin
